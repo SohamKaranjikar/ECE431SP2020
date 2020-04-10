@@ -7,6 +7,7 @@ This is a temporary script file.
 
 import scipy as sc
 import numpy as np
+#import matplotlib.pyplot as plt
 
 def xfrange(start, stop, step):
     i = 0
